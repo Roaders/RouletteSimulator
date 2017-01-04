@@ -1,0 +1,24 @@
+{
+  "name": "roulette-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prestart": "npm run build",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roaders/RouletteSimulator.git"
+  },
+  "author": "Giles Roadnight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Roaders/RouletteSimulator/issues"
+  },
+  "homepage": "https://github.com/Roaders/RouletteSimulator#readme",
+  "dependencies": {
+    "typescript": "^2.1.4"
+  }
+}
