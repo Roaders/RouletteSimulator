@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/Roaders/RouletteSimulator#readme",
   "dependencies": {
-    "typescript": "^2.1.4"
+    "typescript": "^2.2.2"
   }
 }
